@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 LinkedIn - https://www.linkedin.com/in/sachin-yadav-32779b209/
+- 👨‍💻 Codepen -  https://codepen.io/SinniS
 
 <!---
 Sachin9718/Sachin9718 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
